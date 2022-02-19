@@ -1,2 +1,2 @@
 # MathAccountCreator
-Gerados de contas matemáticas aleatórias
+Gerador de contas matemáticas aleatórias
